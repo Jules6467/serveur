@@ -1,6 +1,6 @@
 {
 	"ip":"Juzmine.aternos.me",
 	"port": "25565",
-	"name": "Abonne toi",
-	"auto-night-skip":"false"
+	"name": "Abonne_toi",
+	"auto-night-skip":"true"
 }
