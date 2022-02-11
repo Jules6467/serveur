@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"Juzmine.aternos.me",
 	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"name": "Abonne toi",
+	"auto-night-skip":"false"
 }
